@@ -17,11 +17,11 @@ Note: proper versions of ffmpeg may need to be installed to support OpenCV video
 
 See a video demo [here](https://youtu.be/GBbQ9KsgMFk). It was created using timelapse clips from [RIO - 8K](https://vimeo.com/73053894) and [EuroLapse](https://vimeo.com/44941805).
 
-<img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/images/norway.jpg" width="440"> <img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/out/norway_60.jpg" width="440">
+<img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/images/norway.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/out/norway_60.jpg" width="49%">
 
-<img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/images/town.jpg" width="440"> <img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/out/town_100.jpg" width="440">
+<img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/images/town.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/out/town_100.jpg" width="49%">
 
-<img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/images/prador.jpg" width="440"> <img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/out/prador_70.jpg" width="440">
+<img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/images/prador.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/tilt-shift/blob/master/out/prador_70.jpg" width="49%">
 
 ## Usage
 ```
